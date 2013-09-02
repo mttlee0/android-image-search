@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/itSettingsActionBar"
+        android:icon="@drawable/ic_actionbar_settings_icon"
+        android:onClick="onSettingsClick"
+        android:showAsAction="ifRoom"
+        android:title="@string/settings_title">
+    </item>    
+
+</menu>
